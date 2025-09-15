@@ -30,6 +30,7 @@
 ```
 sudo apt install default-jre
 ```
+<img src = "https://github.com/mbrhard-devops/home-8-03-jenkins/tree/main/img/img_home_8_03_part1-1a.png" width = 100%>
 
 2. `Устанавливаем Jenkins`
 3. `Устанавливаем Git`
